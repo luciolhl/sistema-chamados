@@ -55,12 +55,12 @@ export default function Dashboard(){
                                 </td>
                                 <td data-label="Cadastrado">20/06/2021</td>
                                 <td data-label="#">
-                                    <buton className="action" style={{backgroundColor: '#3583f6'}}>
+                                    <button className="action" style={{backgroundColor: '#3583f6'}}>
                                         <FiSearch color='#fff' size={17} />
-                                    </buton>
-                                    <buton className="action" style={{backgroundColor: '#F6a935'}}>
+                                    </button>
+                                    <button className="action" style={{backgroundColor: '#F6a935'}}>
                                         <FiEdit2 color='#fff' size={17} />
-                                    </buton>
+                                    </button>
                                 </td>
                             </tr>
                         </tbody>
